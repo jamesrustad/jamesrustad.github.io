@@ -93,7 +93,7 @@ This will host your page at `http://localhost:4000` and launch your web browser 
 
 When you install Hexo it comes with its own default website template called **landscape**. It’s OK but not very inspiring and you’ll probably want to choose your own later, however landscape is what we’re seeing now:
 
-![](images/2020/03/hexo_landscape_002.jpg)
+![](/images/2020/03/hexo_landscape_002.jpg)
 
 If you’re seeing something like this you’re in great shape and everything has installed correctly.
 
@@ -210,6 +210,6 @@ to remove any previously built sites that are living in your root directory (don
 
 ## Markdown Cheatsheet
 
-![](images/2020/03/markdown_cheatsheet.jpg)
+![](/images/2020/03/markdown_cheatsheet.jpg)
 
 ---
