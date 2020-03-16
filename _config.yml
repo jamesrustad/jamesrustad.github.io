@@ -13,7 +13,7 @@ timezone: 'America/Montreal'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://jamesrustad.github.io
+url: https://jamesrustad.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -96,14 +96,26 @@ search:
   field: post
   content: true
 
+# emoji
+# https://www.webfx.com/tools/emoji-cheat-sheet/
+githubEmojis:
+  enable: true
+  className: github-emoji
+  inject: true
+  styles:
+  customEmojis:
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cactus
+theme: cactus-custom
 theme_config:
   colorscheme: classic
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  message:
+  repo: git@github.com:jamesrustad/jamesrustad.github.io.git
+  branch: master
