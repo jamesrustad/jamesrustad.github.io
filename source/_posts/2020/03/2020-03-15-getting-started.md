@@ -4,22 +4,6 @@ date: '2020-03-15 23:22'
 categories:
   - Hexo
 ---
-<!-- TOC -->
-
-- [Installing Hexo](#installing-hexo)
-  - [Install Homebrew](#install-homebrew)
-  - [Install Node.js](#install-nodejs)
-  - [Install Hexo](#install-hexo)
-- [Setting up first site template](#setting-up-first-site-template)
-- [Installing a theme](#installing-a-theme)
-- [Writing first content to get going](#writing-first-content-to-get-going)
-- [Setting yourself up with GitHub for Hexo](#setting-yourself-up-with-github-for-hexo)
-- [Deploying the Hexo site to GitHub](#deploying-the-hexo-site-to-github)
-- [Trying a few plugins](#trying-a-few-plugins)
-- [Maintaining the blog](#maintaining-the-blog)
-- [Markdown Cheatsheet](#markdown-cheatsheet)
-
-<!-- /TOC -->
 
 This website is my personal blog and is intentionally minimal, lightweight and simple. (Reasons on why coming in a future blog post). It has been built with [`Hexo`](https://hexo.io), deployed with [`Git`](https://git-scm.com) and hosted on [`GitHub Pages`](https://pages.github.com). Eventually I might look in to setting up a custom URL domain and hosting elsewhere but the whole idea of this project was to keep things really simple, have an easy place to call home on the internet and publish blog posts with minimal fuss.
 
