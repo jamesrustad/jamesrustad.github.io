@@ -18,7 +18,7 @@ It's little known but a lot of news websites have 'lite' versions of their sites
 [Skinny Guardian](https://www.skinnyguardian.xyz)
 [Legible News](https://legiblenews.com)
 
-These may not be my favorite sources of news but the pages are so lightweight and accesible I'd rather view these than the mess that so many other news sites are these days. These types of websites are out there you just have to look for them.
+These may not be my favourite sources of news but the pages are so lightweight and accessible I'd rather view these than the mess that so many other news sites are these days. These types of websites are out there you just have to look for them.
 
 This is why I've made the aim of my site to always be as light-weight as possible. No bloat. I'll be trying to use WebP for images where I can and sticking to simple text posts like this one too.
 
