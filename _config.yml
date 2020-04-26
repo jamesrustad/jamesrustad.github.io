@@ -110,7 +110,10 @@ githubEmojis:
 ## Themes: https://hexo.io/themes/
 theme: cactus-custom
 theme_config:
-  colorscheme: classic
+  #colorscheme: classic
+  #colorscheme: dark
+  #colorscheme: white
+  colorscheme: light
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
