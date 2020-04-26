@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+    <!-- so meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="description" content="This website is my personal blog and is intentionally minimal, lightweight and simple. (Reasons on why coming in a future blog post). It has been built with Hexo, deployed with Git and hosted on GitHu">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Getting Started Blogging with Hexo">
+<meta property="og:url" content="https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/index.html">
+<meta property="og:site_name" content="Popcorn VFX">
+<meta property="og:description" content="This website is my personal blog and is intentionally minimal, lightweight and simple. (Reasons on why coming in a future blog post). It has been built with Hexo, deployed with Git and hosted on GitHu">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://jamesrustad.github.io/images/2020/03/hexo_landscape_002.jpg">
+<meta property="og:image" content="https://jamesrustad.github.io/images/2020/03/markdown_cheatsheet.jpg">
+<meta property="article:published_time" content="2020-03-16T03:22:00.000Z">
+<meta property="article:modified_time" content="2020-04-26T14:35:52.410Z">
+<meta property="article:author" content="James">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://jamesrustad.github.io/images/2020/03/hexo_landscape_002.jpg">
+    
+    
+        
+          
+              <link rel="shortcut icon" href="/images/favicon.ico">
+          
+        
+        
+          
+            <link rel="icon" type="image/png" href="/images/favicon-192x192.png" sizes="192x192">
+          
+        
+        
+          
+            <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+          
+        
+    
+    <!-- title -->
+    <title>Getting Started Blogging with Hexo</title>
+    <!-- styles -->
+    
+<link rel="stylesheet" href="/css/style.css">
+
+    <!-- persian styles -->
+    
+      
+<link rel="stylesheet" href="/css/rtl.css">
+
+    
+    <!-- rss -->
+    
+    
+<meta name="generator" content="Hexo 4.2.0"></head>
+
+<body class="max-width mx-auto px3 ltr">
+    
+      <div id="header-post">
+  <a id="menu-icon" href="#"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="menu-icon-tablet" href="#"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="top-icon-tablet" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;"><i class="fas fa-chevron-up fa-lg"></i></a>
+  <span id="menu">
+    <span id="nav">
+      <ul>
+         
+          <li><a href="/">Home</a></li>
+         
+          <li><a href="/about/">About</a></li>
+         
+          <li><a href="/archives/">Blog</a></li>
+         
+          <li><a href="/search/">Search</a></li>
+        
+      </ul>
+    </span>
+    <br/>
+    <span id="actions">
+      <ul>
+        
+        <li><a class="icon" href="/2020/04/26/2020/04/2020-04-26-Everything%20Is%20Slow/"><i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i></a></li>
+        
+        
+        <li><a class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"><i class="fas fa-chevron-up" aria-hidden="true" onmouseover="$('#i-top').toggle();" onmouseout="$('#i-top').toggle();"></i></a></li>
+        <li><a class="icon" href="#"><i class="fas fa-share-alt" aria-hidden="true" onmouseover="$('#i-share').toggle();" onmouseout="$('#i-share').toggle();" onclick="$('#share').toggle();return false;"></i></a></li>
+      </ul>
+      <span id="i-prev" class="info" style="display:none;">Previous post</span>
+      <span id="i-next" class="info" style="display:none;">Next post</span>
+      <span id="i-top" class="info" style="display:none;">Back to top</span>
+      <span id="i-share" class="info" style="display:none;">Share Post</span>
+    </span>
+    <br/>
+    <div id="share" style="display: none">
+      <ul>
+  <li><a class="icon" href="http://www.facebook.com/sharer.php?u=https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/" target="_blank" rel="noopener"><i class="fab fa-facebook " aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="https://twitter.com/share?url=https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/&text=Getting Started Blogging with Hexo" target="_blank" rel="noopener"><i class="fab fa-twitter " aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="http://www.linkedin.com/shareArticle?url=https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/&title=Getting Started Blogging with Hexo" target="_blank" rel="noopener"><i class="fab fa-linkedin " aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="mailto:?subject=Getting Started Blogging with Hexo&body=Check out this article: https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/"><i class="fas fa-envelope " aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="https://getpocket.com/save?url=https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/&title=Getting Started Blogging with Hexo" target="_blank" rel="noopener"><i class="fab fa-get-pocket " aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="http://reddit.com/submit?url=https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/&title=Getting Started Blogging with Hexo" target="_blank" rel="noopener"><i class="fab fa-reddit " aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="https://news.ycombinator.com/submitlink?u=https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/&t=Getting Started Blogging with Hexo" target="_blank" rel="noopener"><i class="fab fa-hacker-news " aria-hidden="true"></i></a></li>
+</ul>
+
+    </div>
+    <div id="toc">
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Installing-Hexo"><span class="toc-number">1.</span> <span class="toc-text">Installing Hexo</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Install-Homebrew"><span class="toc-number">1.1.</span> <span class="toc-text">Install Homebrew</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Install-Node-js"><span class="toc-number">1.2.</span> <span class="toc-text">Install Node.js</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Install-Hexo"><span class="toc-number">1.3.</span> <span class="toc-text">Install Hexo</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Setting-up-first-site-template"><span class="toc-number">2.</span> <span class="toc-text">Setting up first site template</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Installing-a-theme"><span class="toc-number">3.</span> <span class="toc-text">Installing a theme</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Writing-first-content-to-get-going"><span class="toc-number">4.</span> <span class="toc-text">Writing first content to get going</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Setting-yourself-up-with-GitHub-for-Hexo"><span class="toc-number">5.</span> <span class="toc-text">Setting yourself up with GitHub for Hexo</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Deploying-the-Hexo-site-to-GitHub"><span class="toc-number">6.</span> <span class="toc-text">Deploying the Hexo site to GitHub</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Trying-a-few-plugins"><span class="toc-number">7.</span> <span class="toc-text">Trying a few plugins</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Maintaining-the-blog"><span class="toc-number">8.</span> <span class="toc-text">Maintaining the blog</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Markdown-Cheatsheet"><span class="toc-number">9.</span> <span class="toc-text">Markdown Cheatsheet</span></a></li></ol>
+    </div>
+  </span>
+</div>
+
+    
+    <div class="content index py4">
+        
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    
+    <h1 class="posttitle" itemprop="name headline">
+        Getting Started Blogging with Hexo
+    </h1>
+
+
+
+    <div class="meta">
+      <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">James</span>
+      </span>
+      
+    <div class="postdate">
+      
+        <time datetime="2020-03-16T03:22:00.000Z" itemprop="datePublished">2020-03-15</time>
+        
+      
+    </div>
+
+
+      
+    <div class="article-category">
+        <i class="fas fa-archive"></i>
+        <a class="category-link" href="/categories/Hexo/">Hexo</a>
+    </div>
+
+
+      
+
+    </div>
+  </header>
+  
+
+  <div class="content" itemprop="articleBody">
+    <p>This website is my personal blog and is intentionally minimal, lightweight and simple. (Reasons on why coming in a future blog post). It has been built with <a href="https://hexo.io" target="_blank" rel="noopener"><code>Hexo</code></a>, deployed with <a href="https://git-scm.com" target="_blank" rel="noopener"><code>Git</code></a> and hosted on <a href="https://pages.github.com" target="_blank" rel="noopener"><code>GitHub Pages</code></a>. Eventually I might look in to setting up a custom URL domain and hosting elsewhere but the whole idea of this project was to keep things really simple, have an easy place to call home on the internet and publish blog posts with minimal fuss.</p>
+<p>I researched static website generators a bit and settled on <strong>Hexo</strong>. There are other ‘blog frameworks’ available like <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a> and <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> which are well featured and supported, but I settled on Hexo for its apparent ease of use, my own familiarity with JavaScript and Markdown and a very simple deployment process which relies on nothing but a few simple terminal commands.</p>
+<p>There are many guides to getting set up using Hexo online however in setting up this blog initially I had to gather info from various tutorials around the web and figure a few things out for myself.</p>
+<p>This (first!) blog post attempts to bring all that knowledge together. It’s a long post but intentionally it’s just <em>one post</em> to keep everything together and provides, I hope, a complete guide to getting started.</p>
+<p>Note - I am using <strong>Mac OS X</strong> as my platform of choice so bits of this guide will be specific to Mac. I imagine the set up for Linux is very similar. For Windows I imagine it’s quite similar and you can follow many of the steps, but I’m not a Windows user and so I’m afraid you’re on your own there, sorry! :)</p>
+<hr>
+<h2 id="Installing-Hexo"><a href="#Installing-Hexo" class="headerlink" title="Installing Hexo"></a>Installing Hexo</h2><p>Hexo is a <em>’blogging framework’</em> which basically means it’s a bunch of tools for building simple webpages like this one. Using Node.js as a backbone, Hexo translates simple Markdown files in to well formatted HTML and bundles that together with some fancy CSS and JavaScript to create your published static webpage.</p>
+<p>We have a bit of a ladder of installs to do here to get all we need to get going but the basic process to install Hexo is to install in the following order:</p>
+<h3 id="Install-Homebrew"><a href="#Install-Homebrew" class="headerlink" title="Install Homebrew"></a>Install Homebrew</h3><p>Homebrew is a package manager for OS X that makes installing all kind of tools, packages and “linuxy things” a breeze. I already have that installed and if you’re reading this and have an interest in this kind of think i’m pretty sure you already have that set up too so we’ll skip over all the details, but as a simple reference run in a terminal:</p>
+<pre><code>$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"</code></pre><p>You can verify it’s all OK by checking the version of Homebrew you’ve just installed:</p>
+<pre><code>$ brew -v</code></pre><h3 id="Install-Node-js"><a href="#Install-Node-js" class="headerlink" title="Install Node.js"></a>Install Node.js</h3><p>Node.js is a JavaScript framework that basically allows you to run JavaScript outside of a browser (eg in a Terminal). The main thing we’re getting out of this that’s useful to us right now is a tool called <code>npm</code> (the <strong>N</strong>ode <strong>P</strong>ackage <strong>M</strong>anager). This is what we will use to install Hexo itself.</p>
+<pre><code>$ brew install node</code></pre><p>Verify it’s all working by checking the version of npm installed:</p>
+<pre><code>$ npm -v</code></pre><h3 id="Install-Hexo"><a href="#Install-Hexo" class="headerlink" title="Install Hexo"></a>Install Hexo</h3><p>With Node.js and npm installed we can finally install Hexo itself:</p>
+<pre><code>$ npm install hexo-cli -g</code></pre><p>to check you’re good to go run:</p>
+<pre><code>$ hexo -v</code></pre><h2 id="Setting-up-first-site-template"><a href="#Setting-up-first-site-template" class="headerlink" title="Setting up first site template"></a>Setting up first site template</h2><p>Yay! We’re ready to go blogging. To kick things off, set up a new directory on disk somewhere sensible and in a terminal navigate there and run:</p>
+<pre><code>$ hexo init NameOfMyAwesomeBlog</code></pre><p>This will download various bits and bobs and set up all the directory structure you need for your website. The structure will look a bit like this:</p>
+<pre><code>.
+├── _config.yml
+├── node_modules
+├── package-lock.json
+├── package.json
+├── scaffolds
+│   ├── draft.md
+│   ├── page.md
+│   └── post.md
+├── source
+│   ├── _drafts
+│   ├── _posts
+│   ├── about
+│   ├── images
+└── themes
+    └── landscape</code></pre><p><code>_config.yml</code> as the name suggests is a really important file and defines a lot of the technical working of the blog. We’ll edit it in a bit once we’ve set up some git stuff below.</p>
+<p>One of the beauties of Hexo is you don’t have to touch most of this stuff. You’ll dig in to <code>source</code> a bit when creating posts and <code>themes</code> initially to set up the look of the pages and whenever you want to tweak things like the js or css of your site, but you shouldn’t need to do much with themes once you find one you like. You can mess around with <code>scaffolds</code> if you like but it’s not really needed and the other stuff I frankly don’t need to touch at all.</p>
+<p>We don’t even have to build or deploy the site to the web to see it in action. Hexo comes with a way to preview the webpage locally very easily. To install the server package run:</p>
+<pre><code>$ npm install hexo-server --save</code></pre><p>and then:</p>
+<pre><code>$ hexo server --draft --open</code></pre><p>This will host your page at <code>http://localhost:4000</code> and launch your web browser with your site in its current state. The <code>--draft</code> flag tells hexo to view both published and draft posts (see below). If you want to preview just the actual published content to see how your site will look to the outside world when deployed and not draft posts you can remove this flag.</p>
+<p>When you install Hexo it comes with its own default website template called <strong>landscape</strong>. It’s OK but not very inspiring and you’ll probably want to choose your own later, however landscape is what we’re seeing now:</p>
+<p><img src="/images/2020/03/hexo_landscape_002.jpg" alt=""></p>
+<p>If you’re seeing something like this you’re in great shape and everything has installed correctly.</p>
+<h2 id="Installing-a-theme"><a href="#Installing-a-theme" class="headerlink" title="Installing a theme"></a>Installing a theme</h2><p>I like a nice photo of planet Earth as much as the next person but before getting in to the process of writing posts I wanted to get a theme for my site that looked a bit better and more in keeping with the aims of this site to be simple, uncluttered and minimal. I chose <a href="https://github.com/probberechts/hexo-theme-cactus" target="_blank" rel="noopener"><strong>Cactus</strong></a> by GitHub user probberechts (thanks!).</p>
+<p>From the root of your blog directory (the directory with the _config.yml file in it) run:</p>
+<pre><code>$ git clone https://github.com/probberechts/hexo-theme-cactus.git themes/cactus</code></pre><p>This will copy the theme in to the right place. Then open up <code>_config.yml</code> in a text editor and edit the line about theme, comment out landscape and set cactus:</p>
+<pre><code># theme: landscape
+theme: cactus</code></pre><p>Cactus also comes with 4 color options: white, classic, light and dark. I chose light. Add this below where you just set the theme in <code>_config.yml</code>:</p>
+<pre><code>theme_config:
+  colorscheme: light</code></pre><p>If you refresh your webpage in your browser now you won’t see the change. Anytime you edit <code>_config.yml</code> you need to restart the hexo server. If you rerun:</p>
+<pre><code>$ hexo server --draft --open</code></pre><p>You’ll see the changes and your new theme. You can dig in to the files in <code>./themes/cactus/</code> on your own to customize your page. The readme from probberechts on his Cactus theme’s GitHub page is really helpful too.</p>
+<h2 id="Writing-first-content-to-get-going"><a href="#Writing-first-content-to-get-going" class="headerlink" title="Writing first content to get going"></a>Writing first content to get going</h2><p>If you’ve got this far you’re probably well and truly ready to start writing posts.</p>
+<p>Hexo has a nice system whereby you can work on drafts of posts and not have them published when you build and deploy your scene until you’re ready to, it’s a good habit to get in to. To create a post run from the root directory of your blog:</p>
+<pre><code>$ hexo new draft myPostName.md</code></pre><p>This will create a post in somewhere like:</p>
+<pre><code>~/PATH/TO/BLOG/.../source/_drafts/myPostName.md</code></pre><p>I won’t go in to how to write in Markdown here, you can see the cheatsheet at the bottom of this post and hundreds of other resources online for better advice on that. Markdown is a fantastically intuitive way to write for the web and I highly recommend spending some time learning how to use it. It’s really quite simple and will serve you well beyond writing posts for your blog - it can become a very efficient way of writing notes and documents in many situations.</p>
+<p>When you’re happy with your draft you can ‘publish’ the post which will move it from <code>_drafts</code>, a folder which doesn’t get included when you generate your site, in to <code>_posts</code>, which does. Run:</p>
+<pre><code>$ hexo publish myPostName</code></pre><p>The ‘title matter’ of the markdown post will also get a timestamp now added with the publish date and time.</p>
+<h2 id="Setting-yourself-up-with-GitHub-for-Hexo"><a href="#Setting-yourself-up-with-GitHub-for-Hexo" class="headerlink" title="Setting yourself up with GitHub for Hexo"></a>Setting yourself up with GitHub for Hexo</h2><p>I started writing something for this section but found myself basically copying this blog post:</p>
+<p><a href="http://jr0cket.co.uk/hexo/managing-hexo-website-content-with-git-and-github.html" target="_blank" rel="noopener">http://jr0cket.co.uk/hexo/managing-hexo-website-content-with-git-and-github.html</a></p>
+<p>Follow these instructions and you’ll get set up in no time.</p>
+<h2 id="Deploying-the-Hexo-site-to-GitHub"><a href="#Deploying-the-Hexo-site-to-GitHub" class="headerlink" title="Deploying the Hexo site to GitHub"></a>Deploying the Hexo site to GitHub</h2><p>To build your site simply run the command:</p>
+<pre><code>$ hexo generate</code></pre><p>and when you’re ready to deploy to the web:</p>
+<pre><code>$ hexo deploy</code></pre><p>You can also combine these two commands in to one if you want to run them together:</p>
+<pre><code>$ hexo deploy --generate</code></pre><h2 id="Trying-a-few-plugins"><a href="#Trying-a-few-plugins" class="headerlink" title="Trying a few plugins"></a>Trying a few plugins</h2><p>Plugins are ways of extending the functionality of Hexo. There are hundreds available, some are very powerful and some much more niche but all add new features to your Hexo set up.</p>
+<p>I added a search page to this site very simply. First install the search plugin:</p>
+<pre><code>$ npm install hexo-generator-search --save</code></pre><p>Then create a new page for the search to live in:</p>
+<pre><code>$ hexo new page search</code></pre><p>this will create a new <code>index.md</code> page at <code>./source/search/</code> edit this file to add the search type:</p>
+<pre><code>---
+title: Search
+type: search
+---</code></pre><p>Then to configure theme’s main <code>_config.yml</code> (in <code>./themes/cactus/_config.yml</code> in my case) to include it:</p>
+<pre><code>nav:
+  search: /search/</code></pre><p>As another example, a simple plugin exists to be able to include emoji in your posts. Install the plugin:</p>
+<pre><code>$ npm install hexo-filter-github-emojis --save</code></pre><p>This plugin needs a little bit more configuration. Edit your site’s main <code>_config.yml</code> file (the one at the sites root, not theme) to include:</p>
+<pre><code>githubEmojis:
+  enable: true
+  className: github-emoji
+  inject: true
+  styles:
+  customEmojis:</code></pre><p>Now you can add emojis with the usual GitHub syntax of a <code>:</code> on each side of the emoji name eg <code>:thumbsup:</code> <span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png?v8">👍</span></p>
+<p>A useful Emoji cheatsheet lives <span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f449.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png?v8">👉</span><a href="https://www.webfx.com/tools/emoji-cheat-sheet/" target="_blank" rel="noopener">here</a><span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f448.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f448.png?v8">👈</span></p>
+<h2 id="Maintaining-the-blog"><a href="#Maintaining-the-blog" class="headerlink" title="Maintaining the blog"></a>Maintaining the blog</h2><p>Maintaining the blog is very simple too. Just run the command:</p>
+<pre><code>$ hexo clean</code></pre><p>to remove any previously built sites that are living in your root directory (don’t worry, everything is backed up and version controlled on Git - that’s the whole point of this system) and then generate and deploy your new site:</p>
+<pre><code>$ hexo generate --deploy</code></pre><h2 id="Markdown-Cheatsheet"><a href="#Markdown-Cheatsheet" class="headerlink" title="Markdown Cheatsheet"></a>Markdown Cheatsheet</h2><p><img src="/images/2020/03/markdown_cheatsheet.jpg" alt=""></p>
+<hr>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>
+  </div>
+</article>
+
+
+
+        
+          <div id="footer-post-container">
+  <div id="footer-post">
+
+    <div id="nav-footer" style="display: none">
+      <ul>
+         
+          <li><a href="/">Home</a></li>
+         
+          <li><a href="/about/">About</a></li>
+         
+          <li><a href="/archives/">Blog</a></li>
+         
+          <li><a href="/search/">Search</a></li>
+        
+      </ul>
+    </div>
+
+    <div id="toc-footer" style="display: none">
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Installing-Hexo"><span class="toc-number">1.</span> <span class="toc-text">Installing Hexo</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Install-Homebrew"><span class="toc-number">1.1.</span> <span class="toc-text">Install Homebrew</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Install-Node-js"><span class="toc-number">1.2.</span> <span class="toc-text">Install Node.js</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Install-Hexo"><span class="toc-number">1.3.</span> <span class="toc-text">Install Hexo</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Setting-up-first-site-template"><span class="toc-number">2.</span> <span class="toc-text">Setting up first site template</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Installing-a-theme"><span class="toc-number">3.</span> <span class="toc-text">Installing a theme</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Writing-first-content-to-get-going"><span class="toc-number">4.</span> <span class="toc-text">Writing first content to get going</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Setting-yourself-up-with-GitHub-for-Hexo"><span class="toc-number">5.</span> <span class="toc-text">Setting yourself up with GitHub for Hexo</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Deploying-the-Hexo-site-to-GitHub"><span class="toc-number">6.</span> <span class="toc-text">Deploying the Hexo site to GitHub</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Trying-a-few-plugins"><span class="toc-number">7.</span> <span class="toc-text">Trying a few plugins</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Maintaining-the-blog"><span class="toc-number">8.</span> <span class="toc-text">Maintaining the blog</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Markdown-Cheatsheet"><span class="toc-number">9.</span> <span class="toc-text">Markdown Cheatsheet</span></a></li></ol>
+    </div>
+
+    <div id="share-footer" style="display: none">
+      <ul>
+  <li><a class="icon" href="http://www.facebook.com/sharer.php?u=https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/" target="_blank" rel="noopener"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="https://twitter.com/share?url=https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/&text=Getting Started Blogging with Hexo" target="_blank" rel="noopener"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="http://www.linkedin.com/shareArticle?url=https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/&title=Getting Started Blogging with Hexo" target="_blank" rel="noopener"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="mailto:?subject=Getting Started Blogging with Hexo&body=Check out this article: https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/"><i class="fas fa-envelope fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="https://getpocket.com/save?url=https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/&title=Getting Started Blogging with Hexo" target="_blank" rel="noopener"><i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="http://reddit.com/submit?url=https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/&title=Getting Started Blogging with Hexo" target="_blank" rel="noopener"><i class="fab fa-reddit fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="https://news.ycombinator.com/submitlink?u=https://jamesrustad.github.io/2020/03/15/2020/03/2020-03-15-getting-started/&t=Getting Started Blogging with Hexo" target="_blank" rel="noopener"><i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i></a></li>
+</ul>
+
+    </div>
+
+    <div id="actions-footer">
+        <a id="menu" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;"><i class="fas fa-bars fa-lg" aria-hidden="true"></i> Menu</a>
+        <a id="toc" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;"><i class="fas fa-list fa-lg" aria-hidden="true"></i> TOC</a>
+        <a id="share" class="icon" href="#" onclick="$('#share-footer').toggle();return false;"><i class="fas fa-share-alt fa-lg" aria-hidden="true"></i> Share</a>
+        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"><i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> Top</a>
+    </div>
+
+  </div>
+</div>
+
+        
+        <footer id="footer">
+  <div class="footer-left">
+    Copyright &copy; 2020 James Rustad
+  </div>
+  <div class="footer-right">
+    <nav>
+      <ul>
+        
+          <li><a href="/">Home</a></li>
+        
+          <li><a href="/about/">About</a></li>
+        
+          <li><a href="/archives/">Blog</a></li>
+        
+          <li><a href="/search/">Search</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</footer>
+
+    </div>
+    <!-- styles -->
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+
+<link rel="stylesheet" href="/lib/justified-gallery/css/justifiedGallery.min.css">
+
+
+    <!-- jquery -->
+
+<script src="/lib/jquery/jquery.min.js"></script>
+
+
+<script src="/lib/justified-gallery/js/jquery.justifiedGallery.min.js"></script>
+
+<!-- clipboard -->
+
+  
+<script src="/lib/clipboard/clipboard.min.js"></script>
+
+  <script type="text/javascript">
+  $(function() {
+    // copy-btn HTML
+    var btn = "<span class=\"btn-copy tooltipped tooltipped-sw\" aria-label=\"Copy to clipboard!\">";
+    btn += '<i class="far fa-clone"></i>';
+    btn += '</span>'; 
+    // mount it!
+    $(".highlight table").before(btn);
+    var clip = new ClipboardJS('.btn-copy', {
+      text: function(trigger) {
+        return Array.from(trigger.nextElementSibling.querySelectorAll('.code')).reduce((str,it)=>str+it.innerText+'\n','')
+      }
+    });
+    clip.on('success', function(e) {
+      e.trigger.setAttribute('aria-label', "Copied!");
+      e.clearSelection();
+    })
+  })
+  </script>
+
+
+<script src="/js/main.js"></script>
+
+<!-- search -->
+
+<!-- Google Analytics -->
+
+<!-- Baidu Analytics -->
+
+<!-- Disqus Comments -->
+
+
+</body>
+</html>
