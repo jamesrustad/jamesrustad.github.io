@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>macmini test</title>
-      <link href="/2020/04/26/2020/04/2020-04-26-macmini%20test/"/>
-      <url>/2020/04/26/2020/04/2020-04-26-macmini%20test/</url>
-      
-        <content type="html"><![CDATA[<p>Test Post</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Everything Is Slow</title>
       <link href="/2020/04/26/2020/04/2020-04-26-Everything%20Is%20Slow/"/>
       <url>/2020/04/26/2020/04/2020-04-26-Everything%20Is%20Slow/</url>
