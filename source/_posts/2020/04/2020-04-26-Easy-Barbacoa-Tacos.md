@@ -5,17 +5,15 @@ tags:
   - recipes
 ---
 
-# Easy Barbacoa Tacos
-
 This recipe is my absolute favorite way of making tacos. I seem to be having tacos at least 3 nights a week at the moment. Working from home through the Covid-19 pandemic has it's downsides, but one of the best things about it is being able to use my slow cooker more. I can kick off something like this around lunch time and by 7-8pm I've got dinner ready to go.
 
 ## Ingredients
 
-+ 2lb (1kg) beef chuck roast choped up in to big cubes - any cheap slow cooking cut like short ribs, flank, stew pieces, etc will work.
++ 2lb (1kg) beef chuck roast chopped up in to big cubes - any cheap slow cooking cut like short ribs, flank, stew pieces, etc will work.
 + 1 small yellow onion - sliced thin
 + 2 cloves of garlic - crushed
 + 2-3 chipotles en adobo - with some of the sauce and chopped small (I use [these](https://www.iga.net/en/product/sauceadobo-chipotle-peppers/00000_000000007639788910))
-+ 1 tbsp each of mexican chilli powder, paprika, oregano, salt, pepper - honestly whatever spices you have, just grab them all.
++ 1 tbsp each of Mexican chilli powder, paprika, oregano, salt, pepper - honestly whatever spices you have, just grab them all.
 + 1 cup beef broth - [this](https://www.iga.net/en/product/brothready-to-serve-beef/00000_000000006321114358) stuff works well
 + 2 tbsp apple cider vinegar - this is important. It not only adds flavor but breaks down the tough meat when cooking.
 + 2 tbsp soy sauce
