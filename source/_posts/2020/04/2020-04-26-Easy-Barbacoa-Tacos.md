@@ -31,6 +31,10 @@ Transfer the meat from the skillet to the slow cooker, put the lid on and leave 
 
 Serve on heated corn tortillas with your favorite taco toppings!
 
+---
+
 ![](/images/2020/04/IMG_20200411_182956.jpg)
 
 ![](/images/2020/04/IMG_20200424_184923.jpg)
+
+---
