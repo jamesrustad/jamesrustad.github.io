@@ -1,6 +1,8 @@
-layout: "post"
-title: "Analysing Composition #1: The Lines of Psycho"
-date: "2020-04-27 19:35"
+layout: post
+title: 'Analysing Composition #1: The Lines of Psycho'
+date: '2020-04-30 22:20'
+tags:
+  - film-making
 ---
 
 As interesting as my [taco recipes](https://jamesrustad.github.io/2020/04/26/2020/04/2020-04-26-Easy-Barbacoa-Tacos/) are this is supposed to be a blog about film and the craft of making films. I've been thinking about doing a series of blog posts on this subject for a while but couldn't find the right angle that I wanted to explore.
@@ -106,7 +108,7 @@ As the murder finishes, order begins to come back to the sequence (6,7). Swirlin
 
 ## Making the movie on paper
 
-Alfred Hitchcock never saught to be a perfectionist. He was an experimentalist at heart, yet there was no room for improvisation in his movies. He put great effort in to preperation and planning of his shots. He storyboarded everything with his production designers and kept them to hand on set so everyone involved could see what they were collectively trying to achieve, in every shot and scene.
+Alfred Hitchcock never saught to be a perfectionist. He was an experimentalist at heart, yet there was no room for improvisation in his movies. He put great effort into the preparation and planning of his shots. He storyboarded everything with his production designers and kept them to hand on set so everyone involved could see what they were collectively trying to achieve, in every shot and scene.
 
 In doing so he could prepare each shot to have the correct lines of motion, and of meaning, to give maximum impact and create the best composition each time.
 
@@ -115,7 +117,7 @@ In doing so he could prepare each shot to have the correct lines of motion, and 
 
 ---
 
-In future blog posts I'll try to examine more techniques of shot composition and other areas of film making from Hitchcock and other directors that explore more what makes a shot work, or not.
+In future blog posts, I'll try to examine more techniques of shot composition and other areas of film making from Hitchcock and other directors that explore more what makes a shot work, or not.
 
 ---
 #### References

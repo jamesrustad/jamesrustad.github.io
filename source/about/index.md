@@ -12,9 +12,8 @@ This is my personal website and blog, you can read my ramblings on VFX (hopefull
 ## Contact Infomation
 
 email  : jrustad@gmail.com
-twitter: @jamesrustad
 imdb : [James Rustad](https://www.imdb.com/name/nm4027157/ "IMDb")
-linkedin: [James Rustad](www.linkedin.com/in/james-rustad-812b241a "LinkedIn")
+linkedin: [James Rustad](https://www.linkedin.com/in/james-rustad-812b241a "LinkedIn")
 
 ---
 
