@@ -17,7 +17,7 @@ I'd like to try in this first blog post (in what I hope will be a series) to exp
 
 ## Lines are everywhere
 
-When designing a shot a good director will make sure that you are looking at exactly what they want you to be looking at. It might sound obvious when put like that but it's harder than it might appear to focus the audiences attention. Every shot is another piece of the jigsaw puzzle of their movie and there is no room for wasted elements or a shot that misses its mark. To do this, a good shot needs a skeleton to build on. The *lines* of a shot are that skeleton and must be well constructed.
+When designing a shot a good director will make sure that you are looking at exactly what they want you to be looking at. It might sound obvious when put like that but it's harder than it might appear to focus the attention of the audience. Every shot is another piece of the jigsaw puzzle of their movie and there is no room for wasted elements or a shot that misses its mark. To do this, a good shot needs a skeleton to build on. The *lines* of a shot are that skeleton and must be well constructed.
 
 Used correctly lines can convey a feeling of calm or of fear, they can impart a sense of strength and power or make a shot more playful and organic. Even the same source material composed differently can lead the lines of a shot to have a completely different feeling and tell a different story to the audience.
 
@@ -27,7 +27,7 @@ The very opening titles of Alfred Hitchcock's *Psycho* are full of lines.
 ![](/images/2020/04/psycho-0007.jpg)
 ![](/images/2020/04/psycho-0022.jpg)
 
-The very first shot of the movie is just a series of horizontal lines. **Horizontal lines** sit in complete harmony with the longest edges of the frame and are often used to convey a sense of passive calm. We associate them with wide-open spaces, peaceful ocean horizons. Someone lying horizontally is passive, no threat. However in this case they're staggered and, combined with Bernard Herrmann's chilling violin score, they create a sense of _disharmony_, frenzy, and unease.
+The very first shot of the movie is just a series of horizontal lines. **Horizontal lines** sit in complete harmony with the longest edges of the frame and are often used to convey a sense of passive calm. We associate them with wide-open spaces, peaceful ocean horizons. Someone lying horizontally is passive, no threat. However, in this case, they're staggered and, combined with Bernard Herrmann's chilling violin score, they create a sense of _disharmony_, frenzy, and unease.
 
 Hitchcock follows up with a shot of vertical lines. **Vertical lines** are defiant. They defy gravity and they stand tall. They tower over us and remind us of strong, immovable objects like trees, walls and buildings. A vertical line through an image can create a barrier between objects. They allow us to explore up and down an image, but often too, they can reframe the sides of an image and center our focus to what lies between them in way that horizontal lines do not.
 
@@ -39,24 +39,23 @@ From the opening credits we move to shots over the city of Pheonix, AZ. Plenty o
 
 ![](/images/2020/04/psycho-0027-b.jpg)
 
-Horizontal lines are often used to let our eyes move around the image from side to side without wandering too far off-axis but can present quite a boring image if there isn't a whole lot else to look at. An image of a window with horizontal blinds presented square to camera and flatly lit doesn't give you much to look at or a desire to explore further.
+Horizontal lines are often used to let our eyes move around the image from side to side without wandering too far off-axis but can present quite a boring image if there isn't a lot else to look at. An image of a window with horizontal blinds presented square to camera and flatly lit doesn't give you much to look at or a desire to explore further.
 
 Hitchcock chooses to slightly angle the camera approach to the window to create a more interesting composition. This is the first diagonal or 'off square' line we're shown in the movie. Combined with the shadows also at an angle it's an intriguing image that invites us to explore further and want to know what's on the other side of that window.
 
-**Diagonal lines** often create a sense of imbalance and disorder, that is if they don't have a dominant orientation. With a dominant or consistent orientation like we see here they can be a powerful tool to lead the eye. In the case of this window the angle of the shadow from the bottom right corner towards the center of frame and the bottom left corner shadow from the window ledge achieve the same thing. They lead our eye inside the window. The darkness in the room however reveals nothing initially and leaves us wanting to know what's inside.
+**Diagonal lines** often create a sense of imbalance and disorder, that is if they don't have a dominant orientation. With a dominant or consistent orientation like we see here, they can be a powerful tool to lead the eye. In the case of this window, the angle of the shadow from the bottom right corner towards the center of frame and the bottom left corner shadow from the window ledge achieve the same thing. They lead our eye inside the window. The darkness in the room reveals nothing initially and leaves us wanting to know what's inside.
 
-## The 30 day film
+## The 30-day film
 
 *Psycho* was a film that nearly never got made. When Hitchcock informed his studio, Paramount, that the title to his next picture was going to be called *"Psycho"* they didn't like it. They first tried to dissuade him by lowering the film's budget and then by informing him that all the studio's stages were fully booked around the time he wanted to shoot. Undeterred he decided to take the lower budget, film in black and white to save costs and moved production down the road to Universal Studios. The whole film was shot in just 30 days. The no-frills approach to the project seemed to suit him, The New York Times quoted him in a later interview as saying
 
->Nothing about it to distract from telling the tale, just like the old days.
-> -- <cite>Alfred Hitchcock, 1960</cite>
+> Nothing about it to distract from telling the tale, just like the old days.
 
 ## Lines must be carefully placed
 
 Understanding how the orientation of lines in a frame affect its mood is a useful tool for storytelling but it needs to be combined with good placement as well. Badly placed lines can have negative effects on the composition of an image.
 
-Lines that divide a frame in two down the center draw strong attention to that which is in the middle of frame, it's a good way to get focus the audience on what you want them to look at. Something of a trademark shot for Alfred Hitchcock is his full frame portrait shots of characters. By this point in the film we've followed Marion Crane (played by Janet Leigh) as she's stolen money from her employer to start a new life with her boyfriend in Los Angeles.
+Lines that divide a frame in two down the center draw strong attention to that which is in the middle of frame, it's a good way to get focus the audience on what you want them to look at. Something of a trademark shot for Alfred Hitchcock are his full-frame portrait shots of characters. By this point in the film we've followed Marion Crane (played by Janet Leigh) as she's stolen money from her employer to start a new life with her boyfriend in Los Angeles.
 
 ![](/images/2020/04/psycho-0175.jpg)
 
@@ -64,7 +63,7 @@ The placement of lines in this shot draws your attention to her eyes and the ful
 
 ![](/images/2020/04/psycho-0175-b.jpg)
 
-A shot composed off center or from the side wouldn't have the same impact visually. It might be useful to tell more about where she is in relation to the landscape or other such details. The point of this sequence of shots framed this way however is to have us focus on her. Framing Marion this way with other lines in the scene guiding us back towards her when we might be wandering elsewhere works perfectly. Framing her eyes at the same level as the horizon ensures that even when we scan around the shot, the horizontal line of the horizon leads us back to her eyes. The sides of the road do the same thing.
+A shot composed off-center or from the side wouldn't have the same impact visually. It might be useful to tell more about where she is in relation to the landscape or other such details. The point of this sequence of shots framed this way however is to have us focus on her. Framing Marion this way with other lines in the scene guiding us back towards her when we might be wandering elsewhere works perfectly. Framing her eyes at the same level as the horizon ensures that even when we scan around the shot, the horizontal line of the horizon leads us back to her eyes. The sides of the road do the same thing.
 
 The placement of lines in a scene can also be a powerful way to show subliminal moments happening between characters. Lines at the edges of frame can push two characters closer together in a romance, say, or in the case of the shot below, they put up a visual wall between people to imply a barrier between them. A barrier perhaps that one person will not, or cannot, cross.
 
@@ -82,7 +81,7 @@ There is also an implied line in most shots that we never notice; that being the
 
 ![](/images/2020/04/psycho-0252-b.jpg)
 
-The rule of thirds is quite often used in conversation sequences. You just place each character at 1/3 spacing and the natural, harmonious framing makes for an easy on the eye composition thats not too distracting in other ways. Breaking this relationship in a conversation even for just a shot or two is a clever way to give an otherwise comfortable conversation a moment of tension.
+The rule of thirds is quite often used in conversation sequences. You just place each character at 1/3 spacing and the natural, harmonious framing makes for an easy on the eye composition that's not too distracting in other ways. Breaking this relationship in a conversation even for just a shot or two is a clever way to give an otherwise comfortable conversation a moment of tension.
 
 Here Norman Bates (played by Anthony Hopkins) is framed at 1/3 from the right and the conversation is charming and easy, but as Marion explores his relationship with his mother it takes a direction he doesn't like and he leans forward. Moving his framing to center screen focuses our attention on him more, creates a stronger image that concentrates the hostility and a makes for an unsettling, tense moment. The tension is released when he leans back, smiles and the conversation returns to a lighter tone with its usual rule of thirds framing.
 
@@ -90,42 +89,38 @@ Here Norman Bates (played by Anthony Hopkins) is framed at 1/3 from the right an
 
 ## The Zen of Lines
 
-The "shower scene" in *Psycho* is one of the greatest moments of cinema. It's less than a minute long but took 7 days to film. When it was shown in theaters, audiences at the time were shocked that the leading actress could be murdered not even 1/2 of the way through the movie. It had never been done in such a way and it gave *Psycho* it's "word of mouth" reputation that made it the must-see movie, one of the biggest box office successes of the year and indeed of Alfred Hitchcock's career.
+The "shower scene" in *Psycho* is one of the greatest moments of cinema. It's less than a minute long but took 7 days to film. When it was shown in theatres, audiences at the time were shocked that the leading actress could be murdered not even 1/2 of the way through the movie. It had never been done in such a way and it gave *Psycho* it's "word of mouth" reputation that made it the must-see movie, one of the biggest box office successes of the year and indeed of Alfred Hitchcock's career.
 
 I've talked a lot so far about how lines can create harmony and balance in a shot. Harmonious compositions of lines in a shot usually follow a consistent pattern and direction and are effective in quieter, calmer shots of a movie, like the opening shot of *Psycho* with the window discussed above. A composition of contrasting lines, following many directions and even changing drastically during a shot create energy and intensity. They can even be used to heighten the sense of disorder, confusion and chaos. Like during a violent shower stabbing perhaps.
 
 ![](/images/2020/04/psycho_shower.jpg)
 
-The sequence is bookended by two simple shots of a running shower (1,7). The lines are obvious to see and create a sense of balance and restoration of order around the shots of the murder. One of my all time favorite shots in any movie is the shot at (2). The shot is slightly oddly framed at the beginning, the right hand side of the shot is unbalanced with the water moving one way against the orientation of Marion. The empty space on the left side is more structured; the vertical lines in the shower curtain giving order and stability, stability that is broken by the blurry figure approaching through the door way.
+The sequence is bookended by two simple shots of a running shower (1,7). The lines are obvious to see and create a sense of balance and restoration of order around the shots of the murder. One of my all-time favorite shots in any movie is the shot at (2). The shot is slightly oddly framed at the beginning, the right hand side of the shot is unbalanced with the water moving one way against the orientation of Marion. The empty space on the left side is more structured; the vertical lines in the shower curtain giving order and stability, stability that is broken by the blurry figure approaching through the door way.
 
 The shot where the curtain is ripped back revealing the murderer (3) is a jarring moment of visual confusion; the lines are all over the place and the shower rail and the edge of the curtain narrow our focus to the horrifying figure wielding the knife. Horror movies make frequent use of this kind of iconic "z-shaped" pose at their most terrifying moments as it's visually dynamic and gives instant tension to a shot.
 
 The subsequent, relentless, shots of the murder (4,5) are always chaotic. The water is always moving in different angles from shot to shot which never gives us a chance to orient ourselves in the moment. To be presented with so many different angles and lines so quickly is explosive and confusing.
 
-As the murder finishes, order begins to come back to the sequence (6,7). Swirling lines of water down the plug hole become more ordered over time but still contrast with each other and the edges of frame. This allows some visual interest before the final shot of the sequence; simple harmonious water lines from the shower head.
+As the murder finishes, order begins to come back to the sequence (6,7). Swirling lines of water down the plughole become more ordered over time but still contrast with each other and the edges of frame. This allows some visual interest before the final shot of the sequence; simple harmonious water lines from the showerhead.
 
 
-## some conclusion title
+## Making the movie on paper
 
-Alfred Hitchcock never saught to be a perfectionist. He was an experimentalist at heart.
+Alfred Hitchcock never saught to be a perfectionist. He was an experimentalist at heart, yet there was no room for improvisation in his movies. He put great effort in to preperation and planning of his shots. He storyboarded everything with his production designers and kept them to hand on set so everyone involved could see what they were collectively trying to achieve, in every shot and scene.
 
-:hocho: :scream: :shower:
+In doing so he could prepare each shot to have the correct lines of motion, and of meaning, to give maximum impact and create the best composition each time.
 
+> The most glaring omission in the conventional script, I believe, is camera movement.
+> -- <cite>Alfred Hitchcock</cite>
 
+---
 
-
-
-
-
-
-
+In future blog posts I'll try to examine more techniques of shot composition and other areas of film making from Hitchcock and other directors that explore more what makes a shot work, or not.
 
 ---
 #### References
 
-1. https://the.hitchcock.zone/wiki/1000_Frames_of_Hitchcock
-2. 2
-3. 3
-
+1. Stills taken from the fantastic resource: https://the.hitchcock.zone/wiki/1000_Frames_of_Hitchcock
+2. Background infomation on Psycho and quotes from: Hitchcock at Work, Bill Krohn.
 
 ---
