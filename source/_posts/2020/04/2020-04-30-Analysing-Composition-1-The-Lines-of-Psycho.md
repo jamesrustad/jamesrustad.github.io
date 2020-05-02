@@ -7,13 +7,13 @@ tags:
 
 As interesting as my [taco recipes](https://jamesrustad.github.io/2020/04/26/2020/04/2020-04-26-Easy-Barbacoa-Tacos/) are this is supposed to be a blog about film and the craft of making films. I've been thinking about doing a series of blog posts on this subject for a while but couldn't find the right angle that I wanted to explore.
 
-I often remark in my job as a VFX supervisor how sometimes shots just 'don't work'. They're sometimes just not well executed. Sometimes they're not well planned or just haven't come together in the right way in the end. It's hard to explain why and this is often my fault in not sculpting the visual effects for a shot in the right way, but quite often I believe the shot itself just is poorly conceived from the beginning. This is no criticism of the Director of Photography or Director; there are a million reasons why a shot might just not work.
+I often remark in my job as a VFX supervisor how sometimes shots just 'don't work'. They're sometimes not well executed. Sometimes they're not well planned or haven't come together in the right way in the end. It's hard to explain why and this is often my fault in not sculpting the visual effects for a shot in the right way, but sometimes the shot itself is unfortunately poorly conceived from the beginning. This is no criticism of the Director of Photography or Director; there are a million reasons why a shot might not work.
 
-I've been a long time fan of the work of director Alfred Hitchcock. He was a master of shot-making and composition and it's hard to find an example of a shot in one of his movies that doesn't work. It's been said that he used to plan out the details of the entire movie he was making, right down to the focal length and lens he would use to film *each shot*, well before the project began filming. Watching Hitchcock's movies is watching a masterclass in film making and I particularly admire his skills of shot composition.
+I've been a long time fan of the work of director ***Alfred Hitchcock***. He was a master of shot-making and composition and it's hard to find an example of a shot in one of his movies that doesn't work. He used to plan out the details of the entire movie he was making, right down to the focal length and lens he would use to film *each shot*, well before the project began filming. Watching Hitchcock's movies is watching a masterclass in film making and I particularly admire his skills of shot composition.
 
-I'd like to try in this first blog post (in what I hope will be a series) to explain a bit about the process of film making and learn more myself along the way. What makes a shot work, or not, and why? By analysing an example from the great man himself I'll try and explain why I feel his films are so well composed visually.
+I'd like to try in this first blog post (in what I hope will be a series) to explain a bit about the process of film making and learn more myself along the way. What makes a shot work, or not, and why? By analysing an example from the great man himself I'll try and explain why his films are so well composed visually.
 
-**Note**: *This post inevitably contains spoilers. If you haven't watched ***Psycho*** before just stop reading now and please go and watch it immediately. It's one of the all-time great thrillers of cinema.*
+**Note**: *This post inevitably contains spoilers. If you haven't watched ***Psycho*** before stop reading now and please go and watch it immediately. It's one of the all-time great thrillers of cinema.*
 
 ---
 
@@ -117,7 +117,7 @@ In doing so he could prepare each shot to have the correct lines of motion, and 
 
 ---
 
-In future blog posts, I'll try to examine more techniques of shot composition and other areas of film making from Hitchcock and other directors that explore more what makes a shot work, or not.
+In future blog posts, I'll try to examine more techniques of shot composition and other areas of film making from Hitchcock and other directors that explore more what makes a shot work, or not. Thanks for reading.
 
 ---
 #### References
