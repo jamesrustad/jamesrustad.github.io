@@ -1,6 +1,6 @@
-layout: post
-title: Everything Is Slow
-date: '2020-04-24 10:26'
+layout: "post"
+title: "Everything Is Slow"
+date: "2020-04-24 10:26"
 ---
 
 For the past few months I've been in the habit of restarting my router at home every few days thinking that something was wrong. Pages seemed to be taking longer and longer to load than I remember. Perhaps the router is just getting old I thought or maybe my laptop is getting a bit long in the tooth. Comparing load times on various machines in various places (home, work, public wifi, etc) I noticed the loading times were pretty similar where ever I went.
