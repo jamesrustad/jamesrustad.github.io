@@ -425,14 +425,14 @@ body table {
 }
 body th {
   padding: 8px;
-  border-bottom: 1px dashed #666;
+  border-bottom: 1px dashed #999;
   color: #111;
   font-weight: bold;
   font-size: 13px;
 }
 body td {
   padding: 0 8px;
-  border-bottom: none;
+  border-bottom: 1px dashed #999;
 }
 @font-face {
   font-style: normal;
