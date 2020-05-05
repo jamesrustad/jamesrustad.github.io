@@ -7,7 +7,7 @@ For the past few months I've been in the habit of restarting my router at home e
 
 I use a 2015 Macbook for most of my computing needs at home, I also have an aging 2012 Mac Mini but both have decent specs even by today's standards; Core i5 CPUs, 8 or 16GB of RAM and fast SSD hard drives. My machine at work is about as fast a machine as you can readily buy yet still loading a simple story on a news website takes about the same 30 seconds each time regardless of the machine you're running it on.
 
-This is ridiculous. The web is slowing down to a crawl when everything else in the tech world is getting faster. A professional news website has to deliver a lot more complex and interactive content than a personal blog like this one, as well as run ads to make it commercially viable at all, but the point remains.
+This is ridiculous. The web is slowing down to a crawl when everything else in the tech world is getting faster. A professional news website has to deliver a lot more complex and interactive content than a personal blog like this one, as well as run content-rich ads to make it commercially viable at all, but the point remains.
 
 Even scrolling these pages after they load is a painful experience. The framerate of a website containing mostly text should never even be a consideration to a computer made in the last 10 years, yet here we are.
 

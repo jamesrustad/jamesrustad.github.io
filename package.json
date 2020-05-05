@@ -23,6 +23,8 @@
     "hexo-renderer-ejs": "^1.0.0",
     "hexo-renderer-marked": "^2.0.0",
     "hexo-renderer-stylus": "^1.1.0",
-    "hexo-server": "^1.0.0"
+    "hexo-server": "^1.0.0",
+    "hexo-tag-aplayer": "^3.0.4",
+    "hexo-tag-spotify": "^1.1.2"
   }
 }

@@ -124,6 +124,25 @@ deploy:
   branch: master
 
 
+# =====================================================
+##size
+#large (default)
+#compact
+#width>x<height>
+
+##theme
+#dark (default)
+#light
+
+##view
+#list (default)
+#cover
+spotify:
+  size: 'large'
+  theme: 'light'
+  view: 'list'
+# =====================================================
+
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
