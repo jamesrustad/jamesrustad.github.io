@@ -10,7 +10,9 @@ Many of the more active blogs post a weekly diary of things they've discovered o
 ## 1. Meditation
 I've been meditating again.
 
-## 2. Something else
+## 2. Interesting Links of the Week
+https://sfree.life/sound-theory-toyota-vangelis-bastl-instruments-free/
+
 
 ## 3. Something elsewhere
 
