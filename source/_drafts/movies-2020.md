@@ -1,5 +1,5 @@
 layout: "post"
-title: "movies-2020"
+title: "Movies watched in 2020"
 date: "2020-05-03 23:02"
 ---
 
@@ -8,45 +8,23 @@ List of movies watched in 2020 for the first time. Ongoing!
 Ratings scale:
 
 - :sunglasses: 5: I wish I could watch it again for the first time
-- :smile: 4: I will be watching it again
+- :smile: 4: I'll be watching it again
 - :smirk: 3: I'd watch it again, maybe running in the background
 - :unamused: 2: Life's too short to watch it again
 - :triumph: 1: Kill it with fire before it lays eggs
 
----
-
 | # | Title | Released | Watched | Review | Rating |
 |---|---|---|---|---|---|
-| 1 | Sicario | 2015 | Jan 05 | Great thriller movie, but the lesson here is so bleak | 5 |
-| 2 | Paprika | 2006 | Jan 08 | Colorful, vivid and great animation but so so bizaare | 4 |
-| 3 | Birdman or (The Unexpected Virtue of Ignorance) | 2014 | Jan 08 | Insanely good, I can see why it won best picture | 5 |
-| 4 | Looper | 2012 | Jan 09 | Entertaining enough, but raises so many time travel questions | 4 |
-| 5 | John Wick 2 | 2017 | Jan 12 | Better than I expected | 5 |
-| 6 | Ad Astra | 2019 | Jan 13 | Kinda draggy | 3.5 |
-| 7 | Klaus | 2019 | Jan 13 | Surprisingly good. Fantastic animation | 5 |
-| 8 | Marriage Story | 2019 | Jan 14 | Great performances. Ma didn't like the ending. | 5 |
-| 9 | Fist of Fury | 1972 | Jan 14 | Great fight scenes. Actually a bit more plot than I expected | 5 |
-| 10 | Coming to America | 1988 | Jan 15 | I had low expectations, but it was better than I thought it would be. Ma would like it! | 3.5 |
-| 11 | MIB International | 2019 | Jan 15 | Kind of predictable | 3 |
-| 12 | Batman vs TMNT | 2019 | Jan 16 | Ridiculous, but fun. Good for kids. | 4 |
-| 13 | 6 Underground | 2019 | Jan 17 | The editing and scene transitions were all over the place. A very Michael Bay film. | 3.5 |
-| 14 | The Wolf of Wall Street | 2013 | Jan 18 | This movie does nothing to improve my opinion of modern capitalism. | 4.5 |
-| 15 | Parasite | 2019 | Jan 19 | Really good, but IDK how to begin to describe it. Worth overcoming the 1 inch subtitle barrier for. | 5 |
-| 16 | Kiki's Delivery Service | 1989 | Feb 04 | Very light-hearted and idyllic. At first it felt a bit boring, but it had me smiling by the end. | 5 |
-| 17 | Uncut Gems | 2019 | Feb 07 | Sandler gave a good performance, but I struggled to get through the early parts of the movies because his character and situation are so unrelatable to me personally. | 4 |
-| 18 | Knives Out | 2019 | Feb 09 | A fantastic murder mystery, maybe the best I've ever seen, great performances all around. | 5 |
-| 19 | Master and Commander: The Far Side of the World | 2003 | Feb 10 | Watched this because a redditor said ROTK robbed it of best picture in 2003. This is a great war movie, but he was wrong | 5 |
-| 20 | Jojo Rabbit | 2019 | Feb 11 | Best movie about a Nazi ever. Most colorful depiction of Nazi Germany. Fantastic movie. | 5 |
-| 21 | Superman: Red Son | 2020 | Feb 27 | An acceptable adaptation of one of my favorite Superman stories. Minus points for not including the "House of L" epilogue. | 4 |
-| 22 | Coach Carter | 2005 | Feb 27 | I watched this because I saw it in a "top inspirational speeches" YT video. Pretty good sports movie. | 4 |
-| 23 | Billy Madison | 1995 | Mar 23 | Watched this so I know the context of the "I award you no points and may god have mercy on your soul" clip. Typical early Sandler movie. | 3 |
-| 24 | Princess Mononoke | 1997 | Mar 23 | Much more action-packed than the last Ghibli movie I watched. Beautifully animated. | 5 |
-| 25 | Birds of Prey and the Fantabulous Emancipation of One Harley Quinn | 2020 | Mar 25 | [Spoiler-free review](/2020/03/birds-of-prey/) | 4 |
-| 26 | Logan Lucky | 2017 | Mar 25 | Fun heist movie, but I find it hard to take the characters seriously. Might be some anti-redneck bias. | 4 |
-| 27 | The Hobbit: An Unexpected Journey | 2012 | Mar 30 | See below | 4 |
-| 28 | The Hobbit: The Desolation of Smaug | 2013 | Apr 07 | See below | 4 |
-| 29 | [Project 88: Back to the Future Too](https://www.bttftoo.com/) | 2020 | Apr 10 | Fantastic fan-made shot-by-shot recreation of Back to the Future II, put together during quarantine, w/ stop motion, kids, sock puppets, bananas, potatoes and much more! https://www.youtube.com/watch?v=GcUUjWbVc4I | 5 |
-| 30 | The Hobbit: Battle of the Five Armies | 2014 | Apr 10 | This trilogy had far too many extra things that weren't in the books, but it was pretty good. I rank them Desolation > Five Armies > Journey. | 4 |
-| 31 | The Departed | 2006 | Apr 10 | This was intense. I liked it more than Goodfellas. | 5 |
-| 32 | Spirited Away | 2001 | Apr 15 | Shades of Alice in Wonderland and The Wizard of Oz. Easily the best Ghibli film I've watched so far. | 5 |
-| 33 | Psych the Movie | 2017 | May 03 | It's like an extended episode of Psych! | 5 |
+| 1 | The Two Popes  | 2020  | Jan 10  | Interesting. Not sure how much this really follows the facts, but fantastic to watch two of the best actors in the business go at it. | 3.5  |
+| 2  | Star Wars: Episode 9  | 2019  | Jan 15  | I liked it! I know it walks all over 8 but it's star wars, what's not to like.  | 3.5 |
+| 3  | Knives Out  | 2019  | Jan 22  | Good performances from the all the cast. I kind of solved the ending about 15 mins before the end but enjoyable.  | 4 |
+| 4  | Parasite  | 2019  | Feb 15  | Excellent. One of the best movies I've seen in a long time. Interesting plot twists and plenty to say about the lives of the rich and poor.  | 5  |
+| 5  | Aladdin  | 2019  | Feb 19  | One of the better Disney remakes I've seen. Different enough from the orignal to be interesting, familiar enough to be memorable.  | 4  |
+| 6  | Bird Box  | 2018  | Feb 29  | I'd listened to the audio book of this before I saw it so knew what to expect. Felt like it was rushing through the story to me.  | 2  |
+| 7  | Jumanji: Welcome to the Jungle.  | 2017  | Mar 02  | Much better than I expected it to be. Jack Black gives a great performance, whilst the others are kind of predictable.  | 4  |
+| 8  | Once upon a time in Hollywood  | 2019  | Mar 07  | Fantasic. Like all Tarentino movies they're so unique compared with everything else made today.  | 5 |
+| 9  |  Ad Astra |  2019 | Mar 19  | Looks Beautiful and Brad Pitt gives a good performance. Plot holes drag it down a bit and Tommy Lee Jones felt miscast.  | 3  |
+| 10  | Cats  | 2020 | Apr 01  | The less said the better I think. Maybe I'll do a review on this one day as I have plenty to say when the time is right.  | 1 |
+| 11  | Contagion  | 2011  | Apr 10  | Topical, obviously. Interesting to contrast how the hollywood version diverges from reality.   | 2 |
+| 12  | The Biggest Little Farm  | 2020  | Apr 26  | Cute. Felt like I was watching the product of a venture capital's brain storm on marketing ideas, but watchable.  | 3  |
+| 13  | Kung Fu Panda  | 2008  | May 03  | I enjoyed it! Dustin Hoffman steals the show as Shifu. Short and sweet, surprised actually how well it stands up today.  | 4  |
