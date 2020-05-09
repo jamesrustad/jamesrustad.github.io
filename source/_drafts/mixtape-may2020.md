@@ -20,4 +20,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit 
 
 {% youtube mLuPQfIZDSs %}
 
+
+<img src="/images/2020/04/IMG_20200411_182956.jpg" onclick="playAudio('/audio/2020/05/01.ogg')">
 ---
