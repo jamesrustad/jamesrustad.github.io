@@ -11,11 +11,11 @@ Whilst I have little skill and knowledge in programming languages and the advanc
 
 Many of the more active blogs post a weekly diary of things they've discovered over the past 7 days. What they're working on and interesting links and articles from across the web. I think it's a good practice to get in to - it encourages you to actually do some stuff in the week to have something to write about if nothing else!
 
-In the current climate it's important to keep busy and try and be productive where you can and I think keeping a record of what you've done, discovered, and perhaps even missed, is a great thing to do. I've committed to trying to become a more *active producer* rather than *passive consumer*.
+In the current climate it's important to keep busy and try and be productive where you can and I think keeping a record of what you've done, uncovered, and perhaps even missed, is a great thing to do. I've committed to trying to become a more *active producer* rather than *passive consumer*.
 
 ## The New Normal
 
-<img style="float: right; margin-left: 22px; margin-bottom: 8px; margin-top: 15px; border: 4px solid;border-radius: 8px" src="/images/2020/05/40krjj.jpg">
+<img style="float: right; margin-left: 22px; margin-bottom: 8px; margin-top: 15px; border: 2px solid;border-radius: 8px" src="/images/2020/05/pigeon.jpg">
 
 I'm not sure I have anything unique or articulate to say about Covid-19 except that I miss going out for food. I can live without the social interaction better than I imagined. I don't particularly miss the old routines of my life, and I certainly don't miss the commute to work and office life. But I do miss a properly cooked wood-fired pizza. Selfish with everything else going on in the world, I know. I miss dumplings, a proper bowl of ramen and ordering 4 different types of tacos. I'm going to eat out so much when all this is over.
 
@@ -34,7 +34,17 @@ I downloaded ***Farming Simulator 19*** as it was one of the PS Plus games of th
 I've been playing a lot of 2 olddddd games I used to play in my teens called ***Pharaoh*** and ***Empire:Rise of the Middle Kingdom***. They're super chill, city builder time wasters, just what the doctor ordered right now. You can pick them up on GoG for pennies.
 
 ## Around the Web
-https://sfree.life/sound-theory-toyota-vangelis-bastl-instruments-free/
+
++ Find Twitch streamers who have no one watching them!
+https://twitchroulette.net
+
++ 2020 Pulitzer prize winners announced
+https://www.pulitzer.org/news/announcement-2020-pulitzer-prize-winners
+
+I haven't read most of these, but if you only read one, make it [this](https://www.newyorker.com/magazine/2019/04/22/guantanamos-darkest-secret). Ben Taub's examination of the relationship between a Guantanmo guard and his prisoner is a facisnating read. Long, but worth your time.
+
++ For 32 Years, This Japanese Chef Has Been Making a Painting of Every Single Meal He Eats.
+https://news.artnet.com/art-world/itsuo-kobayashi-1787082
 
 ## Thought of the Week
 *I bet Marie Kondo wishes she had more shit in her house right about now.*
