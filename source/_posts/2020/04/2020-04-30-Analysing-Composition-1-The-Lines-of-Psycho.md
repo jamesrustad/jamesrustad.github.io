@@ -11,7 +11,7 @@ I often remark in my job as a VFX supervisor how sometimes shots just 'don't wor
 
 I've been a long time fan of the work of director ***Alfred Hitchcock***. He was a master of shot-making and composition and it's hard to find an example of a shot in one of his movies that doesn't work. He used to plan out the details of the entire movie he was making, right down to the focal length and lens he would use to film *each shot*, well before the project began filming. Watching Hitchcock's movies is watching a masterclass in film making and I particularly admire his skills of shot composition.
 
-I'd like to try in this first blog post (in what I hope will be a series) to explain a bit about the process of film making and learn more myself along the way. What makes a shot work, or not, and why? By analysing an example from the great man himself I'll try and explain why his films are so well composed visually.
+I'd like to try in this first blog post (in what I hope will be a series) to explain a bit about the process of film making and learn more myself along the way. What makes a shot work, or not, and why? By analyzing an example from the great man himself I'll try and explain why his films are so well composed visually.
 
 **Note**: *This post inevitably contains spoilers. If you haven't watched ***Psycho*** before stop reading now and please go and watch it immediately. It's one of the all-time great thrillers of cinema.*
 
@@ -108,7 +108,7 @@ As the murder finishes, order begins to come back to the sequence (6,7). Swirlin
 
 ## Making the movie on paper
 
-Alfred Hitchcock never saught to be a perfectionist. He was an experimentalist at heart, yet there was no room for improvisation in his movies. He put great effort into the preparation and planning of his shots. He storyboarded everything with his production designers and kept them to hand on set so everyone involved could see what they were collectively trying to achieve, in every shot and scene.
+Alfred Hitchcock never sought to be a perfectionist. He was an experimentalist at heart, yet there was no room for improvisation in his movies. He put great effort into the preparation and planning of his shots. He storyboarded everything with his production designers and kept them to hand on set so everyone involved could see what they were collectively trying to achieve, in every shot and scene.
 
 In doing so he could prepare each shot to have the correct lines of motion, and of meaning, to give maximum impact and create the best composition each time.
 
@@ -123,6 +123,6 @@ In future blog posts, I'll try to examine more techniques of shot composition an
 #### References
 
 1. Stills taken from the fantastic resource: https://the.hitchcock.zone/wiki/1000_Frames_of_Hitchcock
-2. Background infomation on Psycho and quotes from: Hitchcock at Work, Bill Krohn.
+2. Background information on Psycho and quotes from: Hitchcock at Work, Bill Krohn.
 
 ---

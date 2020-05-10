@@ -32,4 +32,4 @@ Ratings:
 | 12  | The Biggest Little Farm  | 2020  | Apr 26  | Cute. Felt like I was watching the product of a venture capital's brain storm on marketing ideas, but watchable.  | 3  |
 | 13  | Kung Fu Panda  | 2008  | May 03  | I enjoyed it! Dustin Hoffman steals the show as Shifu. Short and sweet, surprised actually how well it stands up today.  | 4  |
 | 14  | Isle of Dogs  | 2018  | May 07  | Utterly distinctive. It's the details and design of *every little thing* that make the difference. Loved it.  | 4  |
-| 15  | Freaks  | 2018  | May 09   | Really interesting first 20 mins and a good concept overall that sadly gets a bit muddled by the end  | 2.5  |
+| 15  | Freaks  | 2018  | May 09   | Really interesting first 20 mins and a good concept overall, but sadly gets a bit muddled by the end.  | 2.5  |
