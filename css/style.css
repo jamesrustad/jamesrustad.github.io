@@ -542,6 +542,43 @@ body {
 .right {
   float: right;
 }
+.fade {
+  opacity: 1;
+  transition: opacity 0.25s ease-in-out;
+  -moz-transition: opacity 0.25s ease-in-out;
+  -webkit-transition: opacity 0.25s ease-in-out;
+}
+.fade:hover {
+  opacity: 0;
+}
+.beforeAfter {
+  position: relative;
+  width: 90%;
+  margin: 0 auto;
+}
+.beforeAfter img {
+  display: block;
+  max-width: 100%;
+  max-height: auto;
+}
+.beforeAfterOverlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  -moz-transition: all 1s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  transition: 1s ease-in-out;
+}
+.beforeAfter:hover .beforeAfterOverlay {
+  opacity: 1;
+}
 @media (min-width: 540px) {
   .image-wrap {
     flex-direction: row;
