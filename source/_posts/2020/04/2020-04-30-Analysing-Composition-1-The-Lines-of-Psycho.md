@@ -37,9 +37,12 @@ As the opening sequence progresses we're shown these two elements competing with
 
 From the opening credits we move to shots over the city of Pheonix, AZ. Plenty of vertical lines to admire before we arrive at this shot:
 
-![](/images/2020/04/psycho-0027.jpg)
-
-![](/images/2020/04/psycho-0027-b.jpg)
+<div class="beforeAfter">
+  <img src="/images/2020/04/psycho-0027.jpg">
+  <div class="beforeAfterOverlay">
+    <img src="/images/2020/04/psycho-0027-b.jpg">
+  </div>
+</div>
 
 Horizontal lines are often used to let our eyes move around the image from side to side without wandering too far off-axis but can present quite a boring image if there isn't a lot else to look at. An image of a window with horizontal blinds presented square to camera and flatly lit doesn't give you much to look at or a desire to explore further.
 
@@ -59,19 +62,25 @@ Understanding how the orientation of lines in a frame affect its mood is a usefu
 
 Lines that divide a frame in two down the center draw strong attention to that which is in the middle of frame, it's a good way to get focus the audience on what you want them to look at. Something of a trademark shot for Alfred Hitchcock are his full-frame portrait shots of characters. By this point in the film we've followed Marion Crane (played by Janet Leigh) as she's stolen money from her employer to start a new life with her boyfriend in Los Angeles.
 
-![](/images/2020/04/psycho-0175.jpg)
+<div class="beforeAfter">
+  <img src="/images/2020/04/psycho-0175.jpg">
+  <div class="beforeAfterOverlay">
+    <img src="/images/2020/04/psycho-0175-b.jpg">
+  </div>
+</div>
 
 The placement of lines in this shot draws your attention to her eyes and the full range of emotions going on inside her as she wrestles with whether she's done the right thing.
-
-![](/images/2020/04/psycho-0175-b.jpg)
 
 A shot composed off-center or from the side wouldn't have the same impact visually. It might be useful to tell more about where she is in relation to the landscape or other such details. The point of this sequence of shots framed this way however is to have us focus on her. Framing Marion this way with other lines in the scene guiding us back towards her when we might be wandering elsewhere works perfectly. Framing her eyes at the same level as the horizon ensures that even when we scan around the shot, the horizontal line of the horizon leads us back to her eyes. The sides of the road do the same thing.
 
 The placement of lines in a scene can also be a powerful way to show subliminal moments happening between characters. Lines at the edges of frame can push two characters closer together in a romance, say, or in the case of the shot below, they put up a visual wall between people to imply a barrier between them. A barrier perhaps that one person will not, or cannot, cross.
 
-![](/images/2020/04/psycho-0277.jpg)
-
-![](/images/2020/04/psycho-0277-b.jpg)
+<div class="beforeAfter">
+  <img src="/images/2020/04/psycho-0277.jpg">
+  <div class="beforeAfterOverlay">
+    <img src="/images/2020/04/psycho-0277-b.jpg">
+  </div>
+</div>
 
 ## Learn the rules so you know how to break them
 
@@ -79,9 +88,12 @@ The placement of lines in a scene can also be a powerful way to show subliminal 
 
 There is also an implied line in most shots that we never notice; that being the diagonal from one corner to the other. This can be useful to connect items and particularly works well in combination with the rule of thirds to bring together the two sides of an image that you've laid down from upper 1/3 to lower 1/3. Here in this shot, Marion's (and the audience's) attention is brought back to the newspaper in her handbag that she realizes she can use to hide the stolen money. The shot is well framed to make this connection easy to read.
 
-![](/images/2020/04/psycho-0252.jpg)
-
-![](/images/2020/04/psycho-0252-b.jpg)
+<div class="beforeAfter">
+  <img src="/images/2020/04/psycho-0252.jpg">
+  <div class="beforeAfterOverlay">
+    <img src="/images/2020/04/psycho-0252-b.jpg">
+  </div>
+</div>
 
 The rule of thirds is quite often used in conversation sequences. You just place each character at 1/3 spacing and the natural, harmonious framing makes for an easy on the eye composition that's not too distracting in other ways. Breaking this relationship in a conversation even for just a shot or two is a clever way to give an otherwise comfortable conversation a moment of tension.
 
@@ -123,6 +135,6 @@ In future blog posts, I'll try to examine more techniques of shot composition an
 #### References
 
 1. Stills taken from the fantastic resource: https://the.hitchcock.zone/wiki/1000_Frames_of_Hitchcock
-2. Background information on Psycho and quotes from: Hitchcock at Work, Bill Krohn.
+2. Background information on Psycho and quotes from: _Hitchcock at Work, Bill Krohn._
 
 ---
