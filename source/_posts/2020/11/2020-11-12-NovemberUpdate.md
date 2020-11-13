@@ -3,9 +3,7 @@ title: "November Update"
 date: "2020-11-12 21:30"
 ---
 
-Quick Post testing Hexo still works after updating to v5.2.0!
-
-:smiley:
+Quick Post testing Hexo still works after updating to v5.2.0! {% github_emoji smile %}
 
 I want to try and start up the Weeknotes again and I have a couple of ideas for longer blog posts. It was a bit annoying to forget all my commands and git backup procedure, so here is a cheatsheet for future.
 
