@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>November Update</title>
+      <link href="2020/11/12/2020/11/2020-11-12-NovemberUpdate/"/>
+      <url>2020/11/12/2020/11/2020-11-12-NovemberUpdate/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Quick Post testing Hexo still works after updating to v5.2.0!</p><p><span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f603.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png?v8">😃</span></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Weeknotes-002</title>
       <link href="2020/05/17/2020/05/2020-05-17-Weeknotes-002/"/>
       <url>2020/05/17/2020/05/2020-05-17-Weeknotes-002/</url>
