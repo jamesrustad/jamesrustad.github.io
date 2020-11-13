@@ -14,7 +14,7 @@ Ratings:
 - :unamused: 2: Life's too short to watch it again
 - :tired_face: 1: Kill it with fire before it lays eggs
 
-#### updated: '2020-05-09'
+#### updated: '2020-05-25'
 
 | # | Title | Released | Watched | Review | Rating |
 |---|---|---|---|---|---|
@@ -33,3 +33,4 @@ Ratings:
 | 13  | Kung Fu Panda  | 2008  | May 03  | I enjoyed it! Dustin Hoffman steals the show as Shifu. Short and sweet, surprised actually how well it stands up today.  | 4  |
 | 14  | Isle of Dogs  | 2018  | May 07  | Utterly distinctive. It's the details and design of *every little thing* that make the difference. Loved it.  | 4  |
 | 15  | Freaks  | 2018  | May 09   | Really interesting first 20 mins and a good concept overall, but sadly gets a bit muddled by the end.  | 2.5  |
+| 16  | Baby Driver  | 2018  | May 25  | Amazing sound design and soundtrack. Jon Hamm didn't feel like a good villain and took me out of the story a bit. Drive (an obvious film to compare) had a story I liked more.  | 3  |
