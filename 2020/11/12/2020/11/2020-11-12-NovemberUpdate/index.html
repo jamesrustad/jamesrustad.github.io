@@ -6,15 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="HandheldFriendly" content="True">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="description" content="Quick Post testing Hexo still works after updating to v5.2.0! 😃          document.querySelectorAll(&#39;.github-emoji&#39;)           .forEach(el &#x3D;&gt; {             if (!el.dataset.src) { return; }">
+    <meta name="description" content="Quick Post testing Hexo still works after updating to v5.2.0! :smiley: I want to try and start up the Weeknotes again and I have a couple of ideas for longer blog posts. It was a bit annoying to forge">
 <meta property="og:type" content="article">
 <meta property="og:title" content="November Update">
 <meta property="og:url" content="https://jamesrustad.github.io/2020/11/12/2020/11/2020-11-12-NovemberUpdate/index.html">
 <meta property="og:site_name" content="Popcorn Overload">
-<meta property="og:description" content="Quick Post testing Hexo still works after updating to v5.2.0! 😃          document.querySelectorAll(&#39;.github-emoji&#39;)           .forEach(el &#x3D;&gt; {             if (!el.dataset.src) { return; }">
+<meta property="og:description" content="Quick Post testing Hexo still works after updating to v5.2.0! :smiley: I want to try and start up the Weeknotes again and I have a couple of ideas for longer blog posts. It was a bit annoying to forge">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2020-11-13T02:30:00.000Z">
-<meta property="article:modified_time" content="2020-11-13T02:33:58.363Z">
+<meta property="article:modified_time" content="2020-11-13T03:08:56.357Z">
 <meta property="article:author" content="James">
 <meta name="twitter:card" content="summary">
     
@@ -101,7 +101,7 @@
 
     </div>
     <div id="toc">
-      
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Updating-Node-js"><span class="toc-number">1.</span> <span class="toc-text">Updating Node.js</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Updating-Hexo"><span class="toc-number">2.</span> <span class="toc-text">Updating Hexo</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Backup-to-GitHub"><span class="toc-number">3.</span> <span class="toc-text">Backup to GitHub</span></a></li></ol>
     </div>
   </span>
 </div>
@@ -141,7 +141,21 @@
 
   <div class="content" itemprop="articleBody">
     <p>Quick Post testing Hexo still works after updating to v5.2.0!</p>
-<p><span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f603.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png?v8">😃</span></p>
+<p>:smiley:</p>
+<p>I want to try and start up the Weeknotes again and I have a couple of ideas for longer blog posts. It was a bit annoying to forget all my commands and git backup procedure, so here is a cheatsheet for future.</p>
+<h2 id="Updating-Node-js"><a href="#Updating-Node-js" class="headerlink" title="Updating Node.js"></a>Updating Node.js</h2><p>I have ‘n’ installed which makes this very easy. Simply run:</p>
+<pre><code>$ n latest</code></pre><p>This grabs the latest bleeding edge version of Node.js (currently 15.2). Alternatively to grab the latest stable version run:</p>
+<pre><code>$ n lts</code></pre><h2 id="Updating-Hexo"><a href="#Updating-Hexo" class="headerlink" title="Updating Hexo"></a>Updating Hexo</h2><p>Navigate to the Hexo folder of the blog and open the package.json file and change the line in dependencies:</p>
+<pre><code>"dependencies": {
+    "hexo": "^4.1.0",      &lt;- remove this line
+    "hexo": "^5.2.0",      &lt;- replace with this line</code></pre><p>Then run:</p>
+<pre><code>$ npm update</code></pre><p>After, confirm Hexo has updated correctly with:</p>
+<pre><code>$ hexo --version</code></pre><h2 id="Backup-to-GitHub"><a href="#Backup-to-GitHub" class="headerlink" title="Backup to GitHub"></a>Backup to GitHub</h2><p>After deploying the site with Hexo, I usually backup the working directory to GitHub as well so that I can pull it down to my other machine (laptop) and work on other posts keeping both local computers in sync. On the machine that’s just published the web site I run:</p>
+<pre><code>$ git add .
+$ git commit -m "backup &lt;DATE&gt;"
+$ git push origin backup</code></pre><p>Then on my other machine I run a simple pull:</p>
+<pre><code>$ git pull</code></pre><p>If the two computers are out of sync I might have to push from both machines and then pull down to them both to make sure they’re both up to date with the HEAD of the branch.</p>
+<hr>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -185,7 +199,7 @@
     </div>
 
     <div id="toc-footer" style="display: none">
-      
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Updating-Node-js"><span class="toc-number">1.</span> <span class="toc-text">Updating Node.js</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Updating-Hexo"><span class="toc-number">2.</span> <span class="toc-text">Updating Hexo</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Backup-to-GitHub"><span class="toc-number">3.</span> <span class="toc-text">Backup to GitHub</span></a></li></ol>
     </div>
 
     <div id="share-footer" style="display: none">
